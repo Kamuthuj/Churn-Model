@@ -1,5 +1,4 @@
 # Churn classification model.
-![churn](https://github.com/Kamuthuj/Bank-churn-model/assets/121629618/45dfddfb-26c5-4759-83d5-2b0d8ddc4c18)
 
 # Project overview.
 This project focused on analyzing customer churn rates for a bank with the ultimate goal of reducing churn. By examining the relationship between input features and churn rates, I aimed to provide actionable insights. The task was framed as a supervised classification problem, leveraging a labeled dataset to train a predictive model capable of identifying key factors influencing churn.
